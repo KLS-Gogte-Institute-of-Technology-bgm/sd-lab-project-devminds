@@ -1,12 +1,10 @@
-# sd-lab-project-devminds
-sd-lab-project-devminds created by GitHub Classroom
-•	PURPOSE
+# PURPOSE
 Nowadays it has become common for fine dining restaurants to offer table reservations (booking) to their customers. In fact, this service has become an integral part of a restaurant’s operation, because of its multiple benefits and features. Even though there are still types of restaurants that prefer the modality of first-come, first served, the majority of fine dining and casual restaurants organize their operation through table reservations. As it has become part of restaurants’ service to offer reservations, customers are tending more and more towards making use of this offer, and for some people, it has become mandatory to make a table reservation before going out to a restaurant since there are also benefits for the customer in this type of service.
 
-•	SCOPE
+# SCOPE
 The scope of this project is that a customer will always benefit from being able to make a table reservation at the restaurant he wishes to go. The majority of people prefer to go out knowing that they have a reservation, instead of incurring the risk of not getting a table at the desired restaurant. A clear benefit of making a table reservation for customers is the security that they will experience when going out to a restaurant. Making a reservation will guarantee the customer that he will receive his table at the time and place he has planned. It will be an advantage for the customer to know in advance that he will not have to go through the trouble of waiting until a table is available, or being put on a waiting list, or in the worst case, needing to find another place to eat, because the one chosen won’t be able to serve him.
 
-•	FUNCTIONAL REQUIREMENTS :
+# FUNCTIONAL REQUIREMENTS :
 •	Registration: New customers have to register themselves online with the site by providing valid credentials.
 •	Customer Login: A customer has to login into the site using his/her correct username/email and password.
 •	Reservation:  Any registered & authenticated customer of the system can reserve a table of the restaurant.
@@ -14,14 +12,14 @@ The scope of this project is that a customer will always benefit from being able
 •	Reservation form: The registered customer should provide details such as name, number of guests, phone number, date, time and accept the terms and conditions to reserve a table.
 •	Logout: The customer has the facility to logout after the reservation of a table is done.
 
-•	NON - FUNCTIONAL REQUIREMENTS :
+# NON - FUNCTIONAL REQUIREMENTS :
 •	Performance: For example Response Time, utilization etc.
 •	Presentation: Online site should look more attractive and pleasant, often promoting confidence in use.
 •	Reliability: The down time of the site should be limited to only that of the server.
 •	Scalability: Search system should fetch results within the acceptable time limit.
 •	Navigation: System should be easy to use and navigate through.
 
-	IMPLEMENTATION  DETAILS
+# IMPLEMENTATION  DETAILS
 
 •	BRIEF OVERVIEW OF TECHNOLOGY USED :
 •	Front end: 
